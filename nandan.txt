@@ -1,2 +1,16 @@
+<<<<<<< Updated upstream
 I am Nandan v.
 I am from cse-b
+=======
+<<<<<<< Updated upstream
+I am Nandan V studying in SJCIT.
+I am from CSE Department.
+=======
+<<<<<<< HEAD
+I am Nandan v.
+I am from cse-b
+=======
+I am Nandan
+>>>>>>> f8477b5 (message)
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
